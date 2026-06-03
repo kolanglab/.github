@@ -9,6 +9,7 @@
 |---|---|---|
 | **言語処理系を作りたい人のためのC言語入門** | 処理系を書くために必要な C を、目的から逆算して学ぶ | [📖 公開版](https://kolanglab.github.io/book_clang_intro/) ／ [repo](https://github.com/kolanglab/book_clang_intro) |
 | **精密 GC をインタプリタに実装する** | インタプリタに正確な（precise）GC を実装する | [📖 公開版](https://kolanglab.github.io/book_precise_gc/) ／ [repo](https://github.com/kolanglab/book_precise_gc) |
+| **構文解析入門** | AST の作り方を、簡単な文法からパーサージェネレータ・理論・最先端まで網羅する入門 | [📖 公開版](https://kolanglab.github.io/book_parser_intro/) ／ [repo](https://github.com/kolanglab/book_parser_intro) |
 
 ## 💬 フィードバック・質問
 
