@@ -19,6 +19,7 @@ Collaborator になると、AI が Issue/PR に自動で対応するようにな
 | **言語処理系のデータ構造入門** | シンボルテーブル・AST・値表現など処理系内部のデータ構造から、文字列・配列・ハッシュなど言語が提供するデータ型の実装まで | [📖 公開版](https://kolanglab.github.io/book_data_design/) ／ [repo](https://github.com/kolanglab/book_data_design) |
 | **言語処理系における I/O 入門** | 言語処理系が必要とする I/O を、OS のシステムコール・バッファリング・ブロッキング/多重化・非同期 I/O・io_uring まで実装視点で | [📖 公開版](https://kolanglab.github.io/book_lang_io/) ／ [repo](https://github.com/kolanglab/book_lang_io) |
 | **並行・並列言語処理系入門** | 言語に並列・並行機能を載せ、処理系内部（GC・共有状態・キャッシュ・GIL）を並列実行に耐えさせるまで | [📖 公開版](https://kolanglab.github.io/book_parallel_lang/) ／ [repo](https://github.com/kolanglab/book_parallel_lang) |
+| **ELF/DWARF 入門** | 実行ファイル形式 ELF とデバッグ情報形式 DWARF を、ヘッダ・セクション・シンボルから行番号情報・限界まで仕様に踏み込み、自作ツールのハンズオンも交えて解説 | [📖 公開版](https://kolanglab.github.io/book_elf_dwarf/) ／ [repo](https://github.com/kolanglab/book_elf_dwarf) |
 | **デバッガ開発入門** | 簡単な言語処理系を題材に、ブレークポイント・ステップ実行・状態検査などデバッガの仕組みと作り方を解説 | [📖 公開版](https://kolanglab.github.io/book_debugger_intro/) ／ [repo](https://github.com/kolanglab/book_debugger_intro) |
 | **精密 GC をインタプリタに実装する** | インタプリタに正確な（precise）GC を実装する | [📖 公開版](https://kolanglab.github.io/book_precise_gc/) ／ [repo](https://github.com/kolanglab/book_precise_gc) |
 | **保守的GC入門** | 保守的 GC を libgc で作る方法と、その裏側の理論 | [📖 公開版](https://kolanglab.github.io/book_Conservative_GC/) ／ [repo](https://github.com/kolanglab/book_Conservative_GC) |
