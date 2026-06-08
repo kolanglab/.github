@@ -10,7 +10,7 @@ Collaborator になると、AI が Issue/PR に自動で対応するようにな
 ## 📚 本・教材
 
 | 本 | 内容 | 読む |
-|---|---|---|
+|--- |---   |---   |
 | **言語処理系入門** | 簡単な言語を作りながら、構文解析・意味解析から VM・各種言語機能・最適化・JIT まで処理系づくりの全体像を一望する入門 | [📖 公開版](https://kolanglab.github.io/book_langimpl_intro/) ／ [repo](https://github.com/kolanglab/book_langimpl_intro) |
 | **言語処理系を作りたい人のためのC言語入門** | 処理系を書くために必要な C を、目的から逆算して学ぶ | [📖 公開版](https://kolanglab.github.io/book_clang_intro/) ／ [repo](https://github.com/kolanglab/book_clang_intro) |
 | **構文解析入門** | AST の作り方を、簡単な文法からパーサージェネレータ・理論・最先端まで網羅する入門 | [📖 公開版](https://kolanglab.github.io/book_parser_intro/) ／ [repo](https://github.com/kolanglab/book_parser_intro) |
