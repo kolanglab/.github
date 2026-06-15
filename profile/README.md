@@ -22,6 +22,7 @@
 | **構文解析入門** | AST の作り方を、簡単な文法からパーサージェネレータ・理論・最先端まで網羅する入門 | [📖 公開版](https://kolanglab.github.io/book_parser_intro/) ／ [repo](https://github.com/kolanglab/book_parser_intro) |
 | **言語処理系の意味解析入門** | AST に対する名前解決・型検査/推論・制御/データフロー解析・抽象解釈を紹介 | [📖 公開版](https://kolanglab.github.io/book_semantic_intro/) ／ [repo](https://github.com/kolanglab/book_semantic_intro) |
 | **コード生成入門** | AST 取得後のコード生成を、IR・命令選択・レジスタ割り当て・最適化・JIT までコンパイラ視点で | [📖 公開版](https://kolanglab.github.io/book_code_gen/) ／ [repo](https://github.com/kolanglab/book_code_gen) |
+| **最適化入門** | 言語処理系の最適化を、ピープホールから全プログラム解析まで静的言語も動的言語も区別なく一望。IR・データフロー解析の土台から SSA・ループ最適化・インライン展開・インラインキャッシュ・投機的最適化・レジスタ割り当て、equality saturation や superoptimization・機械学習による最適化まで | [📖 公開版](https://kolanglab.github.io/book_opt/) ／ [repo](https://github.com/kolanglab/book_opt) |
 | **JITコンパイル入門** | なぜ JIT で速くなるのかという原理から、トレーシング・メタトレーシング・階層的 JIT・脱最適化まで、最新研究と各処理系のケーススタディも交え動くコードで | [📖 公開版](https://kolanglab.github.io/book_jit_intro/) ／ [repo](https://github.com/kolanglab/book_jit_intro) |
 | **言語処理系のデータ構造入門** | シンボルテーブル・AST・値表現など処理系内部のデータ構造から、文字列・配列・ハッシュなど言語が提供するデータ型の実装まで | [📖 公開版](https://kolanglab.github.io/book_data_design/) ／ [repo](https://github.com/kolanglab/book_data_design) |
 | **言語処理系における I/O 入門** | 言語処理系が必要とする I/O を、OS のシステムコール・バッファリング・ブロッキング/多重化・非同期 I/O・io_uring まで実装視点で | [📖 公開版](https://kolanglab.github.io/book_lang_io/) ／ [repo](https://github.com/kolanglab/book_lang_io) |
